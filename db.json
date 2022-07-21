@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Jksu",
+      "email": "administrato@labzapp.in",
+      "phone": "44454545454",
+      "id": 1655564896357,
+      "fav": false
+    },
+    {
+      "name": "Bnc",
+      "email": "administrato@labzapp.in",
+      "phone": "23432",
+      "id": 1655564900986,
+      "fav": true
+    },
+    {
+      "name": "jayaramds",
+      "email": "jayaramksurendran@gmail.com",
+      "phone": "54353534",
+      "id": 1655564906814,
+      "fav": true
+    },
+    {
+      "name": "fgf",
+      "email": "dfdf@dsgf.com",
+      "phone": "44454545454",
+      "id": 1655567174217,
+      "fav": true
+    }
+  ]
+}
