@@ -51,9 +51,9 @@ function App (){
     const res = await fetch(`http://localhost:3004/contacts/${id}`)
     const data = await res.json()
     return data
-  } 
-    
-  
+  }
+
+
   const toggFav = async (id)=>{ 
     const singleCon = await getSinContact(id)
     const updatask = {...singleCon,fav: !singleCon.fav}
@@ -101,3 +101,5 @@ function App (){
 }
 
 export default App
+
+//added by jayz
